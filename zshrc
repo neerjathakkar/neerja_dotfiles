@@ -41,7 +41,6 @@ alias 'gp=git pull'
 # For convenience
 alias 'mkdir=mkdir -p'
 alias 'cd..= cd ..'
-alias 'cd'='dc'
 
 # Quick find
 f() {
